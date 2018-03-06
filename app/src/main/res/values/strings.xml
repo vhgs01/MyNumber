@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Number</string>
+    <string name="txt_letras">Digite algumas letras</string>
+    <string name="txt_converter">Converter</string>
+    <string name="txt_resetar">Resetar</string>
+    <string name="txt_resultado">Resultado</string>
+</resources>
